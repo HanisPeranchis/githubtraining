@@ -1,1 +1,1 @@
-Welcome to my repository! git commit
+Welcome to my repository! Git hub training
